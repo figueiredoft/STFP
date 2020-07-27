@@ -1,3 +1,6 @@
+# instancesSTFP
+Instances - Sociotechnical Formation Team Problem (STFP)
+
 The instances are separated into 6 groups, by the cardinality of the vertices of the graph. Each group is denominad by the vertex cardinality of the graph. Example: a folder named 20 has 24 instances with sociometric graphs with vertex cardinality equal to 20. Each instance is composed of 4 files:
 
 
